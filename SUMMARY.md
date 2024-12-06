@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Welcome](welcome.md)
+* [Document](document.md)
 * [dragon\_library](dragon_library.md)
