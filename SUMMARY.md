@@ -15,3 +15,8 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+***
+
+* [Welcome](welcome.md)
+* [dragon\_library](dragon_library.md)
